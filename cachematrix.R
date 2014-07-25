@@ -1,4 +1,4 @@
-These functions are designed to cache a matrix and 
+##These functions are designed to cache a matrix and 
 ## allow it to be retrieved and then to allow the inverse of the matrix to be cached
 ## and retrieved.
 
